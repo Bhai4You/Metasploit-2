@@ -1,4 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
+apt-get update
+apt-get upgrade
+apt-get install figlet
 echo
 ################################
 echo
