@@ -13,7 +13,7 @@ echo 
 echo 
 ##########################################################
 echo
-##########################################################
+#########################################################
 cd $HOME/metasploit-framework
 bundle install -j5
 $PREFIX/bin/find -type f -executable -exec termux-fix-shebang \{\} \;
