@@ -6,7 +6,7 @@ figlet -f small Dawnloading..
 echo 
 ##########################################################
 echo 
-##########################################################
+##########################################################h
 figlet -f big Bhai 4 You
 echo 
 ##########################################################
@@ -45,7 +45,7 @@ apt update & upgrade
 figlet -f small Step-3
 echo
 ################################
-echo "Bundle Install (King) (step-3)"
+echo Bundle Install (King) (step-3)
 ls
 bash bundle.sh
 sh bundle.sh
