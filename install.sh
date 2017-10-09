@@ -25,6 +25,6 @@ apt update & upgrade
 figlet -f small Step-2
 echo
 ################################
-echo "Dawnload Metasploit (step-2)"
+echo Dawnload Metasploit (step-2)
 ls
 bash kingsploit.sh
