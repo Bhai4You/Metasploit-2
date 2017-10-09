@@ -37,3 +37,10 @@ figlet -f small SUTARIYA
 figlet -f small PARIXIT
 echo 
 ##########################################################
+
+figlet -f small Bundle
+figlet -f small Install...
+figlet -f small /Bhai4You/bundle
+gem install bundler
+gem install bundler --pre
+bundle install
