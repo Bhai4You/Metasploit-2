@@ -21,6 +21,14 @@ Second Edition Metasploit For Termux
  
  2) cd Metasploit-2
  
+ 3) chmod 7777 install.sh
+ 
+ 4) chmod 7777 kingsploit.sh
+ 
+ 5) chmod 7777 bundle.s
+ 
+ 6) chmod +x README.md (any Problems to type (cat README.md))
+ 
  3) bash install.sh
  
  4) bash bundle.sh
