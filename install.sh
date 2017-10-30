@@ -1,7 +1,28 @@
 #!/data/data/com.termux/files/usr/bin/bash
+clear
+apt install git
+apt install figlet
+echo "  "
+echo "  "
+echo "  "
+
+# B4U Banner by Sutariya Parixit...
+
+figlet Bhai 4 You
+
+#This colour 
+cyan='\e[0;36m'
+lightgreen='\e[1;32m'
+red='\e[1;31m'
+yellow='\e[1;33m'
+echo -e $lightgreen "        Security Help For Ethical Hackers... "
+echo " "
+echo -e $cyan "               -Sutariya Parixit "
+echo " "
+echo " "
+echo " "
 apt-get update
 apt-get upgrade
-apt-get install figlet
 echo
 "################################"
 echo
